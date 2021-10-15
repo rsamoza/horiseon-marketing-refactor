@@ -6,6 +6,6 @@ Theses changes should be reflected using CSS selector standards in an efficient 
 This is the reference code base from the start of the project
 The success of the project is reflected hereto based on the following changes outlined here:
 
-## Outline of the implemented HTML and CSS acdeptance criteria
+## Outline of the implemented HTML and CSS acceptance criteria
 
 
