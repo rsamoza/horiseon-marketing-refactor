@@ -17,7 +17,7 @@ The successful completion of the project is reflected hereto based on the follow
 ![Alt Text Image](./assets/images/alt-text-screenshot.jpg)
 
 * Provided an identifiable title that represents the webpage content.
-![Web Title Image](./assets/images/webpage-title) 
+![Web Title Image](./assets/images/webpage-title.jpg) 
 
 * Optimized the CSS selectors and attributes to follow html code structure by consolidating similar attributes.
 
