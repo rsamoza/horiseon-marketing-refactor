@@ -8,16 +8,18 @@ The successful completion of the project is reflected hereto based on the follow
 
 ## Outline of the implemented HTML and CSS acceptance criteria
 
-Implemented the accessibility requirement by replacing tag elements in the code with semantic elements.
+* Implemented the accessibility requirement by replacing tag elements in the code with semantic elements.
 
-Re-structure the html code to follow a more logical structure that's independent of the styling and positioning by using approriate semantic elements based on the functionality of the page.
-[Screencastify of the page](https://drive.google.com/file/d/1jOi0LZebiK6ZGwKquCPw-UlLZS7_lX4U/view?usp=sharing)
+* Re-structure the html code to follow a more logical structure that's independent of the styling and positioning by using approriate semantic elements based on the functionality of the page.
+[Page Dislay](https://drive.google.com/file/d/1jOi0LZebiK6ZGwKquCPw-UlLZS7_lX4U/view?usp=sharing)
 
-Icon and images were  provided alternative attributes for the required accessibility criteria.
+* Icon and images were  provided alternative attributes for the required accessibility criteria.
+![Alt Text Image](./assets/images/alt-text-screenshot.jpg)
 
-Provided an identifiable title that represents the webpage content. 
+* Provided an identifiable title that represents the webpage content.
+![Web Title Image](./assets/images/webpage-title) 
 
-Optimized the CSS selectors and attributes to follow html code structure by consolidating similar attributes.
+* Optimized the CSS selectors and attributes to follow html code structure by consolidating similar attributes.
 
 
 
