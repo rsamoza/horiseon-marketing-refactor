@@ -11,7 +11,7 @@ The successful completion of the project is reflected hereto based on the follow
 Implemented the accessibility requirement by replacing tag elements in the code with semantic elements.
 
 Re-structure the html code to follow a more logical structure that's independent of the styling and positioning by using approriate semantic elements based on the functionality of the page.
-[Screencastify of the page](./assets/images/Horiseon Marketing Agency)
+[Screencastify of the page](https://drive.google.com/file/d/1jOi0LZebiK6ZGwKquCPw-UlLZS7_lX4U/view?usp=sharing)
 
 Icon and images were  provided alternative attributes for the required accessibility criteria.
 
